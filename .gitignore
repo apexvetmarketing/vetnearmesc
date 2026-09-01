@@ -1,0 +1,14 @@
+node_modules/
+.wrangler/
+.dev.vars
+public/
+
+# Canvas/DC drafts and runtime are not part of the production site.
+*.dc.html
+support.js
+
+# Research, source uploads, and local preview artifacts.
+uploads/
+intake-raw.txt
+BRAND.md
+.thumbnail
